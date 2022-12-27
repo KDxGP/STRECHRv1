@@ -23,3 +23,5 @@ Recommended Print Settings:
 -   no supports
 
 **Happy stretching!**
+
+![STRECHR printed](images/printed.jpg)

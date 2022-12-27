@@ -7,11 +7,11 @@ _STRECHR_ is a stackable stretcher design you can print at home. This is version
 -   36mm Inner Diameter (see 'STRECHRv1_d36')
 -   ... you get the idea
 
-_STRECHR_ has three diffrent parts. A top piece, an extension and a flat bottom. The parts you like to use needs to be printed twice.
+_STRECHR_ has three different parts. A top piece, an extension and a flat bottom. The parts you like to use need to be printed twice each.
 
 ![STRECHR parts](images/parts.png)
 
-To enusre that the stacked parts are not comming apart, twist each layer 90 degrees against to others as shown.
+To ensure that the stacked parts are not coming apart, twist each layer 90 degrees against to others as shown. Stack as many as you like.
 
 ![STRECHR assembled](images/locked.png)
 
@@ -21,3 +21,5 @@ Recommended Print Settings:
 -   Perimeter: 4
 -   Infill: 40%
 -   no supports
+
+**Happy stretching!**

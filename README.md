@@ -1,4 +1,4 @@
-<center>[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/KDxGP){:target="_blank"}</center>
+<p align="center">[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/KDxGP){:target="_blank"}</p>
 
 <center>![KDxGP presents STRECHR](images/KDxGP_STRECHR.png)</center>
 

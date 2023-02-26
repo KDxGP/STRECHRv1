@@ -33,3 +33,5 @@ Recommended Print Settings:
 **Happy stretching!**
 
 <p align="center"><img src="images/printed.jpg" alt="STRECHR printed"></p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KDxGP-STRECHRv1.visitor-badge)

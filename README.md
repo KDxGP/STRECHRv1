@@ -1,6 +1,10 @@
 <p align="center">[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/KDxGP){:target="_blank"}</p>
 
-<center>![KDxGP presents STRECHR](images/KDxGP_STRECHR.png)</center>
+<p align="center">
+  <img src="images/KDxGP_STRECHR.png" alt="KDxGP presents STRECHR">
+</p>
+  
+  ![KDxGP presents STRECHR](images/KDxGP_STRECHR.png)</center>
 
 _STRECHR_ is a stackable stretcher design you can print at home. This is version 1. It is offered in the following sizes:
 

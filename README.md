@@ -1,5 +1,5 @@
 <p align="center">
-  Like my creations? Consider buying me a coffee. Thank you!
+  Like my creations? Consider buying me a coffee. Thank you!<br>
   <a href="https://www.buymeacoffee.com/KDxGP)" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee">
   </a>
@@ -17,11 +17,11 @@ _STRECHR_ is a stackable stretcher design you can print at home. This is version
 
 _STRECHR_ has three different parts. A top piece, an extension and a flat bottom. The parts you like to use need to be printed twice each.
 
-<center>![STRECHR parts](images/parts.png)</center>
+<p align="center"><img src="images/parts.png" alt="STRECHR parts"></p>
 
 To ensure that the stacked parts are not coming apart, twist each layer 90 degrees against to others as shown. Stack as many as you like.
 
-<center>![STRECHR assembled](images/locked.png)</center>
+<p align="center"><img src="images/locked.png" alt="STRECHR assembled"></p>
 
 Recommended Print Settings:
 
@@ -32,4 +32,4 @@ Recommended Print Settings:
 
 **Happy stretching!**
 
-<center>![STRECHR printed](images/printed.jpg)</center>
+<p align="center"><img src="images/printed.jpg" alt="STRECHR printed"></p>

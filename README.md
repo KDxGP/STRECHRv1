@@ -1,6 +1,6 @@
-[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/KDxGP)
+<center>[!["Buy Me A Coffee"](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/KDxGP){:target="_blank"}</center>
 
-![KDxGP presents STRECHR](images/KDxGP_STRECHR.png)
+<center>![KDxGP presents STRECHR](images/KDxGP_STRECHR.png)</center>
 
 _STRECHR_ is a stackable stretcher design you can print at home. This is version 1. It is offered in the following sizes:
 
@@ -11,11 +11,11 @@ _STRECHR_ is a stackable stretcher design you can print at home. This is version
 
 _STRECHR_ has three different parts. A top piece, an extension and a flat bottom. The parts you like to use need to be printed twice each.
 
-![STRECHR parts](images/parts.png)
+<center>![STRECHR parts](images/parts.png)</center>
 
 To ensure that the stacked parts are not coming apart, twist each layer 90 degrees against to others as shown. Stack as many as you like.
 
-![STRECHR assembled](images/locked.png)
+<center>![STRECHR assembled](images/locked.png)</center>
 
 Recommended Print Settings:
 
@@ -26,4 +26,4 @@ Recommended Print Settings:
 
 **Happy stretching!**
 
-![STRECHR printed](images/printed.jpg)
+<center>![STRECHR printed](images/printed.jpg)</center>
